@@ -40,3 +40,8 @@ in the training_set i have uploaded some random pics of animal and humans drowni
 
 
 ###After running code it pop up a window and ask to select a image to be predicted....for that select any one of the images given in home of repo....or else u can give ur own one which should be under some specifications.
+
+
+THANK YOU ;)
+
+IF ANY QUERIES KINDLY REACH OUT TO WITHOUT HESITATION: akhafeez07@gmail.com
